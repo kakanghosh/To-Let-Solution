@@ -1,0 +1,146 @@
+body{
+	margin:0px;
+	padding:0px;
+	border:0px;
+	color: navy;
+	background-color: #E9EBEE;
+	
+}
+
+#home{
+	text-decoration: none;
+	margin-right: 200px;
+	color: white;
+	font-weight: bold;
+	font-size: 22px;
+	margin-left: 120px;
+	
+}
+#home:hover{
+	text-decoration: none;
+	margin-right: 200px;
+	color: green;
+	font-weight: bold;
+	font-size: 22px;
+	margin-left: 120px;
+	
+}
+
+.top_header{
+	background-color:#021322;
+	height: 70px;
+	color:white;
+	padding: 18px;
+	text-align:left;
+}
+
+
+#account_a,#regi_a{
+	vertical-align: middle;
+	margin-left: 150px;
+	color: #d35400;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+#account_a:hover,#regi_a:hover{
+	vertical-align: middle;
+	margin-left: 150px;
+	color: green;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+#post,#profile,#logout{
+	color: #ffffff;
+	font-size: 18px;
+	text-decoration: none;
+	
+}
+#post:hover,#profile:hover{
+	
+	color:blue;
+}
+
+#logout:hover{
+	font-size: 20px;
+	color: red;
+}
+
+
+.top_header_logged{
+	background-color:#021322;
+	height: 90px;
+	color:white;
+	padding: 20px;
+	
+	
+	
+}
+
+#home_link{
+	margin-left: 100px;
+	vertical-align: middle;
+}
+
+#name_image{
+	margin-right: 250px;
+	
+}
+
+.each_post{
+	margin: auto;
+	margin-top:5px;
+	width: 80%;
+	background-color: #FFFFFF;
+	margin-bottom: 5px;
+	padding-left: 15px;
+	border-radius: 5px;
+	border-style: solid;
+	border-color:#50AFE4;
+	border-radius: 15px;
+}
+
+#search_form{
+	margin-left: 850px;
+	margin-top: 10px;
+	
+}
+
+#start,#end{
+	width: 50px;
+	border-radius: 10px;
+}
+
+#area{
+	width: 80px;
+	border-radius: 10px;
+
+}
+
+
+#button{
+	border-radius: 10px;
+	background-color:#47e862;
+	height:30px;
+	width:30px;
+	background-image: url('../website_icon/search.jpg');
+	background-size : 30px 30px;
+	
+
+	}
+#button:hover{
+	border-radius: 10px;
+	background-color:#47e862;
+	height:40px;
+	width:40px;
+	background-image: url('../website_icon/MagGlass.jpg');
+	background-size : 40px 40px;
+	
+
+	}
+	
+
+
+	
+
